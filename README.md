@@ -22,7 +22,9 @@ _En el presente repositorio se realiza la automatización sobre la página Libre
 
 * Generar una Excepción: La cual está valida que si no se encuentra el libro, arroje  un mensaje indicación que no lo hay.
 
-_En el presente repositorio se hará una automatización sobre la página Librería Nacional, en ella realizaremos las pruebas de Iniciar sesión, Buscar un tema/libro y cerrar sesión._
+## Instalación :bulb:
+
+_Para la ejecución, se debe descargar el archivo que se encuentra en este repositorio .main, al descargar debemos extraer el archivo para poder ir al IDE de preferencia en este caso manejamos IntelliJ IDEA y seleccionar abrir archivo, dentro del repositorio se encuentran los drivers y archivos requeridos para su ejecución._
 
 ## Reporte
 
