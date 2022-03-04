@@ -30,6 +30,8 @@ _Para la ejecución, se debe descargar el archivo que se encuentra en este repos
 
 _AL finalizar la ejecución del la prueba ingresamos a la siguiente ruta para verificar el reporte._
 _<ProyectoName>\target\site\serenity\index.html_
+
+[![Whats-App-Image-2022-03-03-at-9-20-44-PM.jpg](https://i.postimg.cc/mgQ06DbL/Whats-App-Image-2022-03-03-at-9-20-44-PM.jpg)](https://postimg.cc/87zK7TJ9)
   
 
 
