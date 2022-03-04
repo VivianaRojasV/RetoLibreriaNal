@@ -24,5 +24,11 @@ _En el presente repositorio se realiza la automatización sobre la página Libre
 
 _En el presente repositorio se hará una automatización sobre la página Librería Nacional, en ella realizaremos las pruebas de Iniciar sesión, Buscar un tema/libro y cerrar sesión._
 
+## Reporte
+
+_AL finalizar la ejecución del la prueba ingresamos a la siguiente ruta para verificar el reporte._
+_<ProyectoName>\target\site\serenity\index.html_
+  
+
 
 
