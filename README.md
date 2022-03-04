@@ -32,7 +32,10 @@ _AL finalizar la ejecución del la prueba ingresamos a la siguiente ruta para ve
 _<ProyectoName>\target\site\serenity\index.html_
 
 [![Whats-App-Image-2022-03-03-at-9-20-44-PM.jpg](https://i.postimg.cc/mgQ06DbL/Whats-App-Image-2022-03-03-at-9-20-44-PM.jpg)](https://postimg.cc/87zK7TJ9)
-  
+[![Whats-App-Image-2022-03-03-at-9-21-06-PM.jpg](https://i.postimg.cc/W1RBnrcY/Whats-App-Image-2022-03-03-at-9-21-06-PM.jpg)](https://postimg.cc/D8gpfSZ1)
 
+ ## Objetivos
+  
+_Fortalecer los conocimientos técnicos y evidenciar posibles mejoras._
 
 
